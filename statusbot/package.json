@@ -1,0 +1,20 @@
+{
+  "name": "statusbot",
+  "version": "1.0.0",
+  "description": "Status Bot Applicatoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhananjay Hegde",
+  "license": "ISC",
+  "dependencies": {
+	   "express": "^4.16.3"
+	  }
+ "engines": {
+	   "node": "8.11.2"
+	  },
+	  "scripts": {
+		  "start": "node start.js"
+	  }
+}
