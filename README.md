@@ -27,3 +27,8 @@ Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
 
 Nodeclipse is free open-source project that grows with your contributions.
+
+## Credits
+
+Idea is taken from [this scn blog](https://blogs.sap.com/2017/05/16/deploying-a-nodejs-application-on-sap-cloud-platform/)
+Some of the config/ folder and package.json parts are taken from [this GitHub repo](https://github.com/rhari008/cf_sentimentAnalysis) which is used in the above blog.
